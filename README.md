@@ -31,7 +31,7 @@ A selection of projects I’ve built to solve real problems and bring innovative
 
 
 ## 💻 Tech Arsenal:
-**Languages & Core:** Python, Javascript, Typescript, React, React Native, HTML, CSS, SQL, Django. MongoDB, Flask
+**Languages & Core:** Python, Javascript, Typescript, React, React Native, HTML, CSS, SQL, Django. MongoDB, Flask  
 **ML & Deep Learning:** TensorFlow, Keras, PyTorch, OpenCV  
 **MLOps & Production:** Docker, Git, GitHub Actions, REST API's, Kubernetes  
 **Data & Visualization:** Pandas, NumPy, Matplotlib  
