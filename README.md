@@ -7,8 +7,8 @@
 
 -->
 
-## 👋 Hi, I’m Alex Tanasescu
-**Software Engineer | Independent Builder**
+## Hi, I’m Alex Tanasescu
+**Software Engineer | Independent Builder**  
 AI • Systems • Automation • Emerging Tech
 
 Always building. Always experimenting.
