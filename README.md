@@ -68,8 +68,6 @@ Feel free to reach out via the socials in my profile or via my email: atanasescu
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 🌐 Socials:
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alextanasescu) 
 <!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
