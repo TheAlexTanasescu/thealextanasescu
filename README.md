@@ -9,7 +9,14 @@
 
 ## Hi, I’m Alex Tanasescu
 **Software Engineer | Independent Builder**  
-Always building. Always experimenting.
+AI • Automation • Systems • IoT • Emerging Tech
+
+I design and ship practical software and intelligent tools that solve real-world problems. Security-minded and product-focused, I aim to turn ambitious ideas into reliable, usable products.
+
+🛠️** Always building. Always experimenting. **
+
+## 🎯 My Focus
+Focused on building production-aware software and intelligent systems, from AI-powered tools and automation to interactive applications and IoT devices. I aim to transform innovative ideas into reliable, impactful products that solve real-world problems, enhance productivity, and create engaging user experiences.
 
 
 ## 💻 Tech Stack:
