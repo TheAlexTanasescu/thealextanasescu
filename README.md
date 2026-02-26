@@ -22,13 +22,12 @@ Focused on building production-aware software and intelligent systems, from AI-p
 
 A selection of projects I’ve built to solve real problems and bring innovative ideas to life.
 
-| Project | Domain | Key Technologies | What I Learned |
+| Project | Domain | Technologies/Methodologies | What I Learned |
 | :--- | :--- | :--- | :--- |
-| **[Breast Cancer Histology Classifier](https://github.com/KingSherriff/Binary-and-Multi-label-image-classification-using-cnn)** | **Medical Computer Vision** | TensorFlow, CNN, Data Pipelines, Model Debugging | The critical importance of architecture validation and building reproducible training pipelines from complex, imbalanced medical data. |
-| **[Metastatic Cancer Detection](https://github.com/KingSherriff/CNN-Cancer-Detection-Kaggle-Mini-Project)** | Medical Image Analysis | TensorFlow, CNN, Transfer Learning | How to effectively use regularization (BatchNorm, Dropout) to combat overfitting and improve model generalization on large-scale image datasets. |
-| **[Monet-Style Image Generator (GAN)](https://github.com/KingSherriff/Im-Something-of-a-Painter)** | **Generative AI** | TensorFlow, DCGAN, LSGAN | The practical challenges of training GANs (mode collapse, instability) and the empirical differences between loss functions like Minimax and Least Squares. |
+| **[Graphical Password Strength and Predictability Analysis](https://github.com/TheAlexTanasescu/cpsc-530-project)** | Information Security | Pygame | Implemented three graphical password simulators to evaluate their strength, predictability, and security properties. Gained hands-on experience in analyzing authentication methods and interpreting quantitative security metrics. |
 | **[Analysis of Music Lyrics](https://github.com/TheAlexTanasescu/cpsc-599-nlp-lyrics-analysis)** | Natural Language Processing | Text Preprocessing, TF-IDF, LDA, Vector Embedding, t-SNE Visualisions, Cosine Similarity | Applied topic modeling (LDA), TF-IDF, and embedding techniques to uncover lyrical patterns and relationships. Gained experience in high-dimensional data visualization, artist/genre prediction, and similarity analysis using t-SNE and cosine similarity. |
-| **[Chronic Kidney Disease Diagnosis](https://github.com/KingSherriff/Final-Project/tree/master/Supervised%20Learning%20Final%20Project)** | Tabular Data / Healthcare | Scikit-learn, Logistic Regression, SVM, KNN Imputation | How to approach a small, messy clinical dataset: rigorous imputation, model comparison, and the primacy of data quality over model complexity. |
+| **[Book2Beats Playlist Generator](https://github.com/TheAlexTanasescu/prose-to-playlist)** | Recommendation Systems / NLP | OpenAI LLM, Spotify API | Built a web app that analyzes literary themes using AI and generates personalized Spotify playlists. Gained hands-on experience in NLP for thematic analysis, integrating AI outputs with external APIs, and designing end-to-end recommendation pipelines. |
+| **[FFT Convolution](https://github.com/TheAlexTanasescu/convolution)** | Audio Signal Processing | Fast Fourier Transform, Code Tuning, Compiler Optimizations | Applied FFT-based convolution to optimize audio processing and reduce computational cost, then further improved performance through compiler-level optimizations and manual code tuning. Gained hands-on experience in digital signal processing and low-level performance optimization for audio algorithms. |
 
 
 ## 💻 Tech Stack:
