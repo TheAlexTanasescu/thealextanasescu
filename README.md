@@ -31,7 +31,7 @@ A selection of projects I’ve built to solve real problems and bring innovative
 
 
 ## 💻 Tech Arsenal:
-**Languages & Core:** Python, Javascript, Typescript, React, React Native, HTML, CSS, SQL, Django. MongoDB, Flask  
+**Languages & Core:** Python, Javascript, Typescript, React, React Native, Flutter, Dart, HTML, CSS, SQL, Django. MongoDB, Flask  
 **ML & Deep Learning:** TensorFlow, Keras, PyTorch, OpenCV  
 **MLOps & Production:** Docker, Git, GitHub Actions, REST API's, Kubernetes  
 **Data & Visualization:** Pandas, NumPy, Matplotlib  
@@ -69,7 +69,7 @@ Feel free to reach out via the socials in my profile or via my email: atanasescu
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thealextanasescu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-tanasescu-9a2277122) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alextanasescu) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-tanasescu-9a2277122) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alextanasescu) 
 <!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
