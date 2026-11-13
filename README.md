@@ -7,6 +7,8 @@
 
 -->
 
+<h1 align="center">Hey there, I'm Alex 👋</h1> <p align="center"> Software &amp; AI engineer. I build AI products and like owning them from idea to launch.<br/> <a href="https://tannytechsolutions.com">Check out my work</a> </p> <p align="center"> <a href="https://github.com/TheAlexTanasescu?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/TheAlexTanasescu?style=for-the-badge&logo=github&label=Followers"></a> <a href="https://github.com/TheAlexTanasescu?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTheAlexTanasescu"></a> <a href="https://tannytechsolutions.com"><img alt="Website" src="https://img.shields.io/badge/Website-tannytechsolutions.com-black?style=for-the-badge"></a> </p>
+
 ## Hi, I’m Alex Tanasescu
 **Software Engineer | Independent Builder**  
 AI • Automation • Systems • IoT • Emerging Tech
