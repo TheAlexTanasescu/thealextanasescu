@@ -22,6 +22,8 @@ Focused on building production-aware software and intelligent systems, from AI-p
 
 ## 🚀 Featured Projects
 
+<a href="https://github.com/TheAlexTanasescu/REPO-NAME-1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAlexTanasescu&repo=REPO-NAME-1&theme=github_dark" alt="Repo card 1" /> </a> <a href="https://github.com/TheAlexTanasescu/REPO-NAME-2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAlexTanasescu&repo=REPO-NAME-2&theme=github_dark" alt="Repo card 2" /> </a>
+
 A selection of projects I’ve built to solve real problems and bring innovative ideas to life.
 
 | Project | Domain | Technologies/Methodologies | What I Learned |
@@ -31,12 +33,17 @@ A selection of projects I’ve built to solve real problems and bring innovative
 | **[Book2Beats Playlist Generator](https://github.com/TheAlexTanasescu/prose-to-playlist)** | Recommendation Systems / NLP | OpenAI LLM, Spotify API | Built a web app that analyzes literary themes using AI and generates personalized Spotify playlists. Gained hands-on experience in NLP for thematic analysis, integrating AI outputs with external APIs, and designing end-to-end recommendation pipelines. |
 | **[FFT Convolution](https://github.com/TheAlexTanasescu/convolution)** | Audio Signal Processing | Fast Fourier Transform, Code Tuning, Compiler Optimizations | Applied FFT-based convolution to optimize audio processing and reduce computational cost, then further improved performance through compiler-level optimizations and manual code tuning. Gained hands-on experience in digital signal processing and low-level performance optimization for audio algorithms. |
 
+<p> <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,flutter,dart,fastapi,postgres,supabase,docker,pytorch,tensorflow&perline=12" alt="Tech stack" /> </p> <p> <img src="https://skillicons.dev/icons?i=vscode,github,vercel,git,linux,figma&perline=12" alt="Tools" /> </p>
+
+Also: OpenAI and Anthropic APIs, Cursor, Claude Code, n8n.
 
 ## 💻 Tech Arsenal:
 **Languages & Core:** Python, Javascript, Typescript, React, React Native, Flutter, Dart, HTML, CSS, SQL, Django. MongoDB, Flask  
 **ML & Deep Learning:** TensorFlow, Keras, PyTorch, OpenCV  
 **MLOps & Production:** Docker, Git, GitHub Actions, REST API's, Kubernetes  
 **Data & Visualization:** Pandas, NumPy, Matplotlib  
+
+<p> <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheAlexTanasescu&show_icons=true&theme=github_dark&hide_border=true" alt="Alex's GitHub stats" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAlexTanasescu&theme=github-dark&hide_border=true" alt="GitHub streak" /> </p>
 
 ## 📈 What's Next?
 Building AI simulations and algorithmic systems that explore strategy, decision-making, and optimization. Experimenting with minimax-style algorithms, predictive models, and interactive simulations, while seeking collaborations on projects that push the boundaries of applied AI.
