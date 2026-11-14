@@ -16,26 +16,11 @@
 ## 🙋 About Me
 
 **AI Product Engineer | Independent Builder**<br/>
-AI • Automation • Systems • Emerging Tech
+AI • Automation • Mobile • Security
 
-I'm a computer science grad from the University of Calgary (Information Security, GPA 3.8, Dean's List), Canadian and EU citizen, open to relocating. Software engineering, especially with AI, is my core. I like practical, security-minded software, and what I enjoy most is owning the whole project: the product decisions, the build, and the process around it.
+CS grad from the University of Calgary (Information Security), Canadian and EU citizen, open to relocating. I like practical, security-minded software and owning a project from idea to launch. Experience and the full story are on [my website](https://www.tannytechsolutions.com/).
 
-Lately I've been exploring security, especially the offensive side, and how AI applies in other domains. Next I want to build AI simulations around strategy and decision-making.
-
-Outside of code I grew up ski racing (raced for Romania, coached for six years), and I hike whenever I can, with mountaineering in my sights.
-
-🛠️ **Always building. Always experimenting.**
-
-## 💼 Experience
-
-- **AI Trainer, Software Engineering** · DataAnnotation (remote) · Jul 2026 – now<br/>
-  Evaluate and rewrite LLM answers to graduate-level software and maths problems, producing feedback used to fine-tune models.
-- **Freelance Web and Mobile Developer** · WildByte (Alberta) · Jul 2024 – now<br/>
-  Websites, mobile apps, and process automation for small businesses. A paid site for an oil and gas automation provider lifted client engagement 25%.
-- **Application Developer / AI Integration Specialist** · nomorePAPER (Calgary) · Mar 2024 – Jul 2026<br/>
-  Owned delivery of 5+ AI-integrated apps for clients in industrial and blue-collar businesses, from requirements to deployment. NLP and predictive features improved task efficiency 20%; continuous testing cut errors 15%.
-- **Business Development Manager / Junior Specialist** · GAM Tech (Calgary) · Apr 2023 – Jan 2024<br/>
-  Built an NLP email parser that scheduled Zoom meetings automatically, plus a call analyzer; sales conversions rose 15%.
+🔭 **Currently exploring:** offensive security, AI simulations for strategy and decision-making, IoT, and homelab/self-hosting.
 
 ## 🚀 Selected Work
 
