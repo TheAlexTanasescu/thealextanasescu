@@ -1,95 +1,74 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheAlexTanasescu.TheAlexTanasescu&format=true" />
 
-<!--
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alex!;" />
-</h1>
+<h1 align="center">Hey there, I'm Alex 👋</h1>
 
--->
+<p align="center">
+  Software &amp; AI engineer. I build AI products and like owning them from idea to launch.<br/>
+  <a href="https://tannytechsolutions.com">Check out my work</a>
+</p>
 
-<h1 align="center">Hey there, I'm Alex 👋</h1> <p align="center"> Software &amp; AI engineer. I build AI products and like owning them from idea to launch.<br/> <a href="https://tannytechsolutions.com">Check out my work</a> </p> <p align="center"> <a href="https://github.com/TheAlexTanasescu?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/TheAlexTanasescu?style=for-the-badge&logo=github&label=Followers"></a> <a href="https://github.com/TheAlexTanasescu?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTheAlexTanasescu"></a> <a href="https://tannytechsolutions.com"><img alt="Website" src="https://img.shields.io/badge/Website-tannytechsolutions.com-black?style=for-the-badge"></a> </p>
+<p align="center">
+  <a href="https://github.com/TheAlexTanasescu?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/TheAlexTanasescu?style=for-the-badge&logo=github&label=Followers"></a>
+  <a href="https://github.com/TheAlexTanasescu?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTheAlexTanasescu"></a>
+  <a href="https://tannytechsolutions.com"><img alt="Website" src="https://img.shields.io/badge/Website-tannytechsolutions.com-black?style=for-the-badge"></a>
+</p>
 
-## Hi, I’m Alex Tanasescu
-**Software Engineer | Independent Builder**  
+## 👋 Hi there
+
+**Software Engineer | Independent Builder**
 AI • Automation • Systems • IoT • Emerging Tech
 
 I design and ship practical software and intelligent tools that solve real-world problems. Security-minded and product-focused, I aim to turn ambitious ideas into reliable, usable products.
 
-🛠️**Always building. Always experimenting.**
+🛠️ **Always building. Always experimenting.**
 
 ## 🎯 My Focus
-Focused on building production-aware software and intelligent systems, from AI-powered tools and automation to interactive applications and IoT devices. I aim to transform innovative ideas into reliable, impactful products that solve real-world problems, enhance productivity, and create engaging user experiences.
+
+Production-aware software and intelligent systems, from AI-powered tools and automation to interactive applications and IoT devices. I aim to turn innovative ideas into reliable products that solve real problems, improve productivity, and make for engaging user experiences.
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/TheAlexTanasescu/REPO-NAME-1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAlexTanasescu&repo=REPO-NAME-1&theme=github_dark" alt="Repo card 1" /> </a> <a href="https://github.com/TheAlexTanasescu/REPO-NAME-2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAlexTanasescu&repo=REPO-NAME-2&theme=github_dark" alt="Repo card 2" /> </a>
-
-A selection of projects I’ve built to solve real problems and bring innovative ideas to life.
+A selection of projects I've built to solve real problems and bring ideas to life.
 
 | Project | Domain | Technologies/Methodologies | What I Learned |
 | :--- | :--- | :--- | :--- |
 | **[Graphical Password Strength and Predictability Analysis](https://github.com/TheAlexTanasescu/cpsc-530-project)** | Information Security | Pygame | Implemented three graphical password simulators to evaluate their strength, predictability, and security properties. Gained hands-on experience in analyzing authentication methods and interpreting quantitative security metrics. |
-| **[Analysis of Music Lyrics](https://github.com/TheAlexTanasescu/cpsc-599-nlp-lyrics-analysis)** | Natural Language Processing | Text Preprocessing, TF-IDF, LDA, Vector Embedding, t-SNE Visualisions, Cosine Similarity | Applied topic modeling (LDA), TF-IDF, and embedding techniques to uncover lyrical patterns and relationships. Gained experience in high-dimensional data visualization, artist/genre prediction, and similarity analysis using t-SNE and cosine similarity. |
+| **[Analysis of Music Lyrics](https://github.com/TheAlexTanasescu/cpsc-599-nlp-lyrics-analysis)** | Natural Language Processing | Text Preprocessing, TF-IDF, LDA, Vector Embedding, t-SNE Visualizations, Cosine Similarity | Applied topic modeling (LDA), TF-IDF, and embedding techniques to uncover lyrical patterns and relationships. Gained experience in high-dimensional data visualization, artist/genre prediction, and similarity analysis using t-SNE and cosine similarity. |
 | **[Book2Beats Playlist Generator](https://github.com/TheAlexTanasescu/prose-to-playlist)** | Recommendation Systems / NLP | OpenAI LLM, Spotify API | Built a web app that analyzes literary themes using AI and generates personalized Spotify playlists. Gained hands-on experience in NLP for thematic analysis, integrating AI outputs with external APIs, and designing end-to-end recommendation pipelines. |
-| **[FFT Convolution](https://github.com/TheAlexTanasescu/convolution)** | Audio Signal Processing | Fast Fourier Transform, Code Tuning, Compiler Optimizations | Applied FFT-based convolution to optimize audio processing and reduce computational cost, then further improved performance through compiler-level optimizations and manual code tuning. Gained hands-on experience in digital signal processing and low-level performance optimization for audio algorithms. |
+| **[FFT Convolution](https://github.com/TheAlexTanasescu/convolution)** | Audio Signal Processing | Fast Fourier Transform, Code Tuning, Compiler Optimizations | Applied FFT-based convolution to optimize audio processing and reduce computational cost, then improved performance further through compiler-level optimizations and manual code tuning. Gained hands-on experience in digital signal processing and low-level performance optimization. |
 
-<p> <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,flutter,dart,fastapi,postgres,supabase,docker,pytorch,tensorflow&perline=12" alt="Tech stack" /> </p> <p> <img src="https://skillicons.dev/icons?i=vscode,github,vercel,git,linux,figma&perline=12" alt="Tools" /> </p>
+## 🧰 My Toolbox
 
-Also: OpenAI and Anthropic APIs, Cursor, Claude Code, n8n.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,flutter,dart,fastapi,postgres,supabase,docker,pytorch,tensorflow&perline=12" alt="Tech stack" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,github,vercel,git,linux,figma&perline=12" alt="Tools" />
+</p>
 
-## 💻 Tech Arsenal:
-**Languages & Core:** Python, Javascript, Typescript, React, React Native, Flutter, Dart, HTML, CSS, SQL, Django. MongoDB, Flask  
-**ML & Deep Learning:** TensorFlow, Keras, PyTorch, OpenCV  
-**MLOps & Production:** Docker, Git, GitHub Actions, REST API's, Kubernetes  
-**Data & Visualization:** Pandas, NumPy, Matplotlib  
+**Languages & Core:** Python, JavaScript, TypeScript, React, React Native, Flutter, Dart, HTML, CSS, SQL, Django, MongoDB, Flask
+**ML & Deep Learning:** TensorFlow, Keras, PyTorch, OpenCV
+**MLOps & Production:** Docker, Git, GitHub Actions, REST APIs, Kubernetes
+**Data & Visualization:** Pandas, NumPy, Matplotlib
+**AI & Workflow:** OpenAI and Anthropic APIs, Cursor, Claude Code, n8n
 
-<p> <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheAlexTanasescu&show_icons=true&theme=github_dark&hide_border=true" alt="Alex's GitHub stats" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAlexTanasescu&theme=github-dark&hide_border=true" alt="GitHub streak" /> </p>
+## 📊 Stats
 
-## 📈 What's Next?
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheAlexTanasescu&show_icons=true&theme=github_dark&hide_border=true" alt="Alex's GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAlexTanasescu&theme=github-dark&hide_border=true" alt="GitHub streak" />
+</p>
+
+## 📈 What's Next
+
 Building AI simulations and algorithmic systems that explore strategy, decision-making, and optimization. Experimenting with minimax-style algorithms, predictive models, and interactive simulations, while seeking collaborations on projects that push the boundaries of applied AI.
 
-## 🤝 Let’s Connect
-I’m always open to sharing ideas, collaborating on projects, or exploring interesting opportunities across AI, software, and creative applications.
+## 🤝 Let's Connect
 
-Feel free to reach out via the socials in my profile or via my email: atanasescu39@gmail.com
-<!--
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
--->
+I'm always open to sharing ideas, collaborating on projects, or exploring interesting opportunities across AI, software, and creative applications.
 
-<!--
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
--->
-
-<!--
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TheAlexTanasescu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TheAlexTanasescu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAlexTanasescu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
+Reach out via the socials on my profile or by email: atanasescu39@gmail.com
 
 ## ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!--
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TheAlexTanasescu/TheAlexTanasescu/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
--->
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---
-TheAlexTanasescu/TheAlexTanasescu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
